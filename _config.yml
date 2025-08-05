@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenjie Huang's Homepage"
-description              : # "Personal homepage of Wenjie Huang. Undergraduate at Sichuan University. Research interests in Computational Mathematics, AI for Science, and Numerical Algorithms."
+description              : Sichuan University 
 repository               : "Michael-Jackson666/Michael-Jackson666.github.io" # 将 Michael-Jackson666 替换为您的 GitHub 用户名
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # 可选：从百度搜索资源平台获取
 author:
   name             : "Wenjie Huang"
   avatar           : "images/profile.jpg" # 建议您在 images 文件夹下放置一张名为 profile.jpg 的个人照片
-  bio              : "Undergraduate @ Sichuan University | AI for Science & Computational Mathematics"
+  bio              : "Undergraduate @ Sichuan University | Research interests in Computational Mathematics, AI for Science, and Numerical Algorithms"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
