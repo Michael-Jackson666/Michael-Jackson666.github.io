@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Wenjie Huang's Homepage"
-description              : "Personal homepage of Wenjie Huang. Undergraduate at Sichuan University. Research interests in Computational Mathematics, AI for Science, and Numerical Algorithms."
+description              : # "Personal homepage of Wenjie Huang. Undergraduate at Sichuan University. Research interests in Computational Mathematics, AI for Science, and Numerical Algorithms."
 repository               : "Michael-Jackson666/Michael-Jackson666.github.io" # 将 Michael-Jackson666 替换为您的 GitHub 用户名
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # 可选：从 https://analytics.google.com/ 获取您的 ID
@@ -21,13 +21,13 @@ baidu_site_verification  :  # 可选：从百度搜索资源平台获取
 
 # Site Author
 author:
-  name             : "Wenjie Huang (黄文杰)"
+  name             : "Wenjie Huang"
   avatar           : "images/profile.jpg" # 建议您在 images 文件夹下放置一张名为 profile.jpg 的个人照片
-  bio              : "Sichuan University | AI for Science & Math"
+  bio              : "Undergraduate @ Sichuan University | AI for Science & Computational Mathematics"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" # 请替换为您自己的 Google Scholar ID
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" # 请替换为您自己的 Google Scholar ID
   email            : "jackson11235813@163.com"
   researchgate     :
   uri              :
