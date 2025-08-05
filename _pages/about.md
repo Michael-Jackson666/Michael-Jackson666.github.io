@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Wenjie Huang (黄文杰), a senior undergraduate student majoring in Mathematics and Applied Mathematics (Top Student Program) at Sichuan University. My research interest lies in computational mathematics and numerical algorithms for plasma physics, with a specific interest in **AI for Science** and **AI for Math**. During my junior year summer, I attended a summer school at Shanghai Jiao Tong University (SJTU), where I conducted research on **AI for Mathematics**. 
+Hi! I am Wenjie Huang, a senior undergraduate student majoring in Mathematics and Applied Mathematics (Top Student Program) at Sichuan University. My research interest lies in computational mathematics and numerical algorithms for plasma physics, with a specific interest in **AI for Science** and **AI for Math**. During my junior year summer, I attended a summer school at Shanghai Jiao Tong University (SJTU), where I conducted research on **AI for Mathematics**. 
 
 # 🔥 News
 
@@ -31,7 +31,10 @@ Hi! I am Wenjie Huang (黄文杰), a senior undergraduate student majoring in Ma
 # 📝 Papers
 
 <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">arXiv Preprint</div></div></div>
+  <div class='paper-box-image'><div>
+    <div class="badge">arXiv Preprint</div>
+    <img src='images/paper_preview.png' alt="preview" width="100%">
+  </div></div>
   <div class='paper-box-text' markdown="1">
 
   [Fourth-Order Compact Difference Schemes for the One-Dimensional Euler-Bernoulli Beam Equation with Damping Term](https://arxiv.org/abs/2506.23449)
@@ -88,7 +91,8 @@ Hi! I am Wenjie Huang (黄文杰), a senior undergraduate student majoring in Ma
     <div class="columns is-centered">
       <div class="column is-4" style="display: flex; align-items: center; justify-content: flex-end;">
         <div style="max-width:320px; min-width:220px; width:100%; display:flex; justify-content:flex-end;">
-          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XuGCk0QNqefpJaBDYT1hm6U3wH-dIy6LMI2O18TfpCE&cl=ffffff&w=a"></script>
+          <!-- 这里是您自己的地图代码 -->
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RiFJJ52jOKOHh0Tg1Ex-iFdr5wm2Xjp0aM4m1-itsk&cl=ffffff&w=a"></script>
         </div>
       </div>
     </div>
