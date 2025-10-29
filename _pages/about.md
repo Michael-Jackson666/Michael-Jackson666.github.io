@@ -1,3 +1,5 @@
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -128,14 +130,18 @@ An end-to-end AIGC application that automatically converts classical Chinese tex
 - **Sichuan University Merit Student** (Top 10%) (2023, 2024, 2025)
 - **First-Class Comprehensive Scholarship**, Sichuan University (Top 2%) (2023)
 
-<footer class="footer">
+
+  <footer class="footer">
+    <!-- <div class="container"> -->
     <div class="content has-text-centered">
     </div>
     <div class="columns is-centered">
       <div class="column is-4" style="display: flex; align-items: center; justify-content: flex-end;">
         <div style="max-width:320px; min-width:220px; width:100%; display:flex; justify-content:flex-end;">
+          <!-- 这里是您自己的地图代码 -->
           <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RiFJJ52jOKOHh0Tg1Ex-iFdr5wm2Xjp0aM4m1-itsk&cl=ffffff&w=a"></script>
         </div>
       </div>
     </div>
+    <!-- </div> -->
   </footer>
