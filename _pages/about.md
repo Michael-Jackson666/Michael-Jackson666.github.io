@@ -1,14 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-
----
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -18,17 +7,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Wenjie Huang, a senior undergraduate student majoring in Mathematics and Applied Mathematics (Top Student Program) at Sichuan University. My research interest lies in computational mathematics and numerical algorithms for plasma physics, with a specific interest in **AI for Science** and **AI for Math**. During my junior year summer, I attended a summer school at Shanghai Jiao Tong University (SJTU), where I conducted research on **AI for Mathematics**. 
+Hi there! I'm Wenjie Huang, a senior undergraduate in the Mathematics Top Talent Program at Sichuan University. 
+
+My passion lies at the intersection of **Scientific Computing**, **Numerical PDEs**, and **Deep Learning**. I am particularly fascinated by building next-generation scientific tools powered by AI and am actively seeking research and engineering opportunities in **AI for Science** and **AI for Math**.
+
+
+
+### 💻 Technical Skills
+
+*   **Programming Languages**: **Python**, **MATLAB**, **Julia**
+*   **AI Frameworks & Libraries**: **PyTorch**, **TensorFlow**, **JAX**, Hugging Face, Scikit-learn, NumPy, Pandas
+*   **Algorithms & Foundations**: Numerical Analysis, Numerical Solutions for PDEs (**FEM**, **Spectral Methods**, **PINNs**, **DeepONet**), Optimization
+*   **AI Domains**: Machine Learning, Deep Learning, NLP, LLM, Reinforcement Learning
+*   **Developer Tools**: Git, Docker, LaTeX, Markdown
+
+
 
 # 🔥 News
 
-- *2025.07*:  🎉🎉 Attended Summer School at Shanghai Jiao Tong University (SJTU)!
-- *2025.06*:  🎉🎉 My first paper is now available on arXiv!
-- *2024.11*:  🎉🎉 Won First Prize in the China Undergraduate Mathematical Contest!
-- *2024.09*:  🎉🎉 Awarded the National Scholarship!
+- *2025.09*: &nbsp;🏅 Awarded the National Scholarship for the second time!
+- *2025.07*: &nbsp;🎉 Attended the "AI for Math" Summer School at Shanghai Jiao Tong University (SJTU)!
+- *2025.06*: &nbsp;📄 My first paper is now available on arXiv!
+- *2024.11*: &nbsp;🏆  Won Provincial First Prize in the China Undergraduate Mathematical Contest!
+- *2024.11*: &nbsp;🏆 Won **National Second Prize** in the China Undergraduate Mathematical Contest in Modeling (CUMCM)!
+- *2024.09*: &nbsp;🏅 Awarded the National Scholarship for outstanding academic performance!
 
 
-# 📝 Papers
+
+# 📄 Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -48,14 +54,52 @@ Hi! I am Wenjie Huang, a senior undergraduate student majoring in Mathematics an
 </div>
 
 
-# 📝 Research Experience
 
-- *2024.04 - Present*, **Lead Researcher on Numerical Methods for PDEs**, Sichuan University.
-  - Investigated the fretting wear in nuclear fuel assemblies, modeled by the Euler-Bernoulli beam equation.
-  - Developed and implemented a fourth-order compact finite difference scheme to solve the equation, which became the basis of my first-author publication.
-- *2023.09 - 2024.09*, **Lead Developer on Generative AI Project**, Sichuan University.
-  - Leveraged Large Language Models and Diffusion Models (Stable Diffusion) to convert classical Chinese literature into sequential comic strips.
-  - Focused on prompt engineering for visual continuity and fine-tuning text-to-image models, successfully deploying the platform as a WeChat Mini Program.
+# 🚀 Featured Projects
+
+<div class='project-box'>
+<div class='project-box-text' markdown="1">
+
+### [AI4CFD: AI-Powered Solvers for Computational Fluid Dynamics](https://github.com/Michael-Jackson666/AI4CFD) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20">](https://github.com/Michael-Jackson666/AI4CFD)
+
+An open-source framework for solving problems in Computational Fluid Dynamics (CFD) using deep learning. This project serves as my personal playground for exploring the synergy between AI and scientific computing.
+
+- **Implemented several cutting-edge neural operator networks from scratch**, including **PINNs**, **DeepONet**, and **FNO**, using PyTorch.
+- Applied these models to solve a variety of classic PDEs, such as the **Burgers', Navier-Stokes, and Poisson equations**.
+- Published the entire codebase and experimental results on GitHub, complete with clear documentation and tutorials.
+
+*`Tech Stack`*: `Python`, `PyTorch`, `NumPy`, `Matplotlib`, `Git`
+</div>
+</div>
+
+<div class='project-box'>
+<div class='project-box-text' markdown="1">
+
+### High-Precision Numerical Solver for Euler-Bernoulli Equations
+
+This project formed the core of my first-author research paper, focusing on developing a novel numerical method to solve a fourth-order PDE with applications in engineering.
+
+- **Independently designed and implemented a novel fourth-order compact finite difference scheme** to overcome the limitations of traditional methods.
+- Rigorously proved the **consistency, stability, and convergence** of the new scheme, ensuring its robustness.
+- Verified through experiments that the new algorithm **improved computational accuracy by an order of magnitude** compared to standard methods under the same conditions.
+
+*`Tech Stack`*: `Julia`, `MATLAB`, `Python (for plotting)`
+</div>
+</div>
+
+<div class='project-box'>
+<div class='project-box-text' markdown="1">
+
+### GuanZhi: Generative AI for Classical Chinese Comics
+
+An end-to-end AIGC application that automatically converts classical Chinese texts into multi-panel comics, successfully deployed as a WeChat Mini Program.
+
+- **Led the entire algorithm pipeline**, from text storyboarding with **LLMs** and **Prompt Engineering** to **Fine-tuning Stable Diffusion (LoRA)** for stylistic consistency.
+- Responsible for core algorithm implementation and final integration, demonstrating skills in bringing a generative AI concept to a real-world product.
+
+*`Tech Stack`*: `Python`, `PyTorch`, `Hugging Face`, `Stable Diffusion`, `LLM APIs`
+</div>
+</div>
 
 
 #  📝Coursework
@@ -72,29 +116,26 @@ Hi! I am Wenjie Huang, a senior undergraduate student majoring in Mathematics an
 # 💻 Internships
 
 - *2025.07 - 2025.08*, **Summer School, Shanghai Jiao Tong University**, China.
-  - Research Topic: AI for Mathematics
+  - Research Topic: AI for Mathematics,  Focused on practical applications of the **Lean Theorem Prover** for **Formal Mathematics**.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors & Awards
 
-- **National Scholarship** (Top 1%)
-- **National Second Prize**, Mathematical Contest In Modeling
+- **National Scholarship** (Top 0.2%) (2024, 2025)
+- **Sichuan Provincial Outstanding Graduate** (2025)
+- **National Second Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - **Provincial First Prize**, China Undergraduate Mathematical Contest
-- **Outstanding Student**, Sichuan University (Top 10%)
-- **First-Class Comprehensive Scholarship**, Sichuan University (Top 2%)
+- **Sichuan University Merit Student** (Top 10%) (2023, 2024, 2025)
+- **First-Class Comprehensive Scholarship**, Sichuan University (Top 2%) (2023)
 
-
-  <footer class="footer">
-    <!-- <div class="container"> -->
+<footer class="footer">
     <div class="content has-text-centered">
     </div>
     <div class="columns is-centered">
       <div class="column is-4" style="display: flex; align-items: center; justify-content: flex-end;">
         <div style="max-width:320px; min-width:220px; width:100%; display:flex; justify-content:flex-end;">
-          <!-- 这里是您自己的地图代码 -->
           <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_RiFJJ52jOKOHh0Tg1Ex-iFdr5wm2Xjp0aM4m1-itsk&cl=ffffff&w=a"></script>
         </div>
       </div>
     </div>
-    <!-- </div> -->
   </footer>
