@@ -22,27 +22,22 @@ Hi there! I'm Wenjie Huang, a senior undergraduate in the Mathematics Top Talent
 
 My passion lies at the intersection of **Scientific Computing**, **Numerical PDEs**, and **Deep Learning**. I am particularly fascinated by building next-generation scientific tools powered by AI and am actively seeking research and engineering opportunities in **AI for Science** and **AI for Math**.
 
+# 🔥 News
 
+- *2025.09*: &nbsp;🏅 Awarded the **National Scholarship** for the second time!
+- *2025.07*: &nbsp;🎉 Attended the "AI for Math" Summer School at Shanghai Jiao Tong University (SJTU)!
+- *2025.06*: &nbsp;📄 My first paper is now available on arXiv!
+- *2024.11*: &nbsp;🏆  Won **Provincial First Prize** in the China Undergraduate Mathematical Contest!
+- *2024.11*: &nbsp;🏆 Won **National Second Prize** in the China Undergraduate Mathematical Contest in Modeling (CUMCM)!
+- *2024.09*: &nbsp;🏅 Awarded the **National Scholarship** for outstanding academic performance!
 
-### 💻 Technical Skills
+# 💻 Technical Skills
 
 *   **Programming Languages**: **Python**, **MATLAB**, **Julia**
 *   **AI Frameworks & Libraries**: **PyTorch**, **TensorFlow**, **JAX**, Hugging Face, Scikit-learn, NumPy, Pandas
 *   **Algorithms & Foundations**: Numerical Analysis, Numerical Solutions for PDEs (**FEM**, **Spectral Methods**, **PINNs**, **DeepONet**), Optimization
 *   **AI Domains**: Machine Learning, Deep Learning, NLP, LLM, Reinforcement Learning
 *   **Developer Tools**: Git, Docker, LaTeX, Markdown
-
-
-
-# 🔥 News
-
-- *2025.09*: &nbsp;🏅 Awarded the National Scholarship for the second time!
-- *2025.07*: &nbsp;🎉 Attended the "AI for Math" Summer School at Shanghai Jiao Tong University (SJTU)!
-- *2025.06*: &nbsp;📄 My first paper is now available on arXiv!
-- *2024.11*: &nbsp;🏆  Won Provincial First Prize in the China Undergraduate Mathematical Contest!
-- *2024.11*: &nbsp;🏆 Won **National Second Prize** in the China Undergraduate Mathematical Contest in Modeling (CUMCM)!
-- *2024.09*: &nbsp;🏅 Awarded the National Scholarship for outstanding academic performance!
-
 
 
 # 📄 Publications
@@ -71,7 +66,7 @@ My passion lies at the intersection of **Scientific Computing**, **Numerical PDE
 <div class='project-box'>
 <div class='project-box-text' markdown="1">
 
-### [AI4CFD: AI-Powered Solvers for Computational Fluid Dynamics](https://github.com/Michael-Jackson666/AI4CFD) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20">](https://github.com/Michael-Jackson666/AI4CFD)
+## [AI4CFD: AI-Powered Solvers for Computational Fluid Dynamics](https://github.com/Michael-Jackson666/AI4CFD) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20">](https://github.com/Michael-Jackson666/AI4CFD)
 
 An open-source framework for solving problems in Computational Fluid Dynamics (CFD) using deep learning. This project serves as my personal playground for exploring the synergy between AI and scientific computing.
 
@@ -86,7 +81,7 @@ An open-source framework for solving problems in Computational Fluid Dynamics (C
 <div class='project-box'>
 <div class='project-box-text' markdown="1">
 
-### High-Precision Numerical Solver for Euler-Bernoulli Equations
+## High-Precision Numerical Solver for Euler-Bernoulli Equations
 
 This project formed the core of my first-author research paper, focusing on developing a novel numerical method to solve a fourth-order PDE with applications in engineering.
 
@@ -101,7 +96,7 @@ This project formed the core of my first-author research paper, focusing on deve
 <div class='project-box'>
 <div class='project-box-text' markdown="1">
 
-### GuanZhi: Generative AI for Classical Chinese Comics
+## GuWenGuanZhi: Generative AI for Classical Chinese Comics
 
 An end-to-end AIGC application that automatically converts classical Chinese texts into multi-panel comics, successfully deployed as a WeChat Mini Program.
 
