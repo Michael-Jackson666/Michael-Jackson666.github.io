@@ -127,7 +127,7 @@ An end-to-end AIGC application that automatically converts classical Chinese tex
 - *2025.12 - 2026.02*, **AI Engineer Intern**, Huawei Semiconductor Business Unit, China.
 
   - **Project I: Scalable Vector Search Infrastructure** Built a billion-scale vector database using **DiskANN** and **Milvus** on enterprise servers. Optimized hardware-aware indexing to bridge the SSD-DRAM performance gap, ensuring high recall with a minimal memory footprint for large-scale RAG systems.
- - **Project II: LLM Inference & Memory Offloading** Engineered a heterogeneous memory offloading system to mitigate the **"Memory Wall"** in LLM inference. Optimized **KV Cache** and weight migration between GPU/NPU and CPU/NVMe, enabling **100B+ parameter models** on memory-constrained hardware.
+  - **Project II: LLM Inference & Memory Offloading** Engineered a heterogeneous memory offloading system to mitigate the **"Memory Wall"** in LLM inference. Optimized **KV Cache** and weight migration between GPU/NPU and CPU/NVMe, enabling **100B+ parameter models** on memory-constrained hardware.
 
 
 # 🏆 Honors & Awards
